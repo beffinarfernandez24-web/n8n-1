@@ -31,7 +31,7 @@ services:
       - key: N8N_ENCRYPTION_KEY
         generateValue: true
         key: web_hook
-        value: https://n8n-service-h3yi.onrender.com/workflow/C5cHWRLqwd3d98DR
+        value: https://n8n-service-h3yi.onrender.com
 
       # These automatically populate connection details 
       # for the Render Postgres database defined below
